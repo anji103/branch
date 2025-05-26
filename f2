@@ -1,0 +1,11 @@
+tag
+[200~git tag --list----list out tags
+
+git push origin v2.2.2
+
+git push origin --delete v1.1.1----it will delete tag in GitHub account only
+
+git tag --delete v1.1.1----it will delete tag in local repository 
+
+
+git tag-----it will store release code in zip file format in GitHub or remote repo
